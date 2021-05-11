@@ -51,7 +51,6 @@ setup(
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.6',
     ],
-    setup_requires=['pyandoc'],
     install_requires=['pymongo'],
     url="https://github.com/arngarden/MongoDBProxy"
 )
